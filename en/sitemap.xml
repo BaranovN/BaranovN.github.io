@@ -114,6 +114,20 @@
                 href="https://example.com/project/os/"
                 />
   </url><url>
+    <loc>https://example.com/tags/bash/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/tags/bash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/tags/bash/"
+                />
+  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -140,6 +154,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://example.com/project/pandas/"
+                />
+  </url><url>
+    <loc>https://example.com/project/stepik/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/project/stepik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/project/stepik/"
                 />
   </url><url>
     <loc>https://example.com/tags/github/</loc>
@@ -240,6 +268,20 @@
                 href="https://example.com/project/"
                 />
   </url><url>
+    <loc>https://example.com/tags/stepik/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/tags/stepik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/tags/stepik/"
+                />
+  </url><url>
     <loc>https://example.com/tags/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -323,6 +365,10 @@
                 hreflang="en-us"
                 href="https://example.com/post/second-week/"
                 />
+  </url><url>
+    <loc>https://example.com/post/stepik/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/third-week/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>

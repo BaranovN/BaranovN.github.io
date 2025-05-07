@@ -162,6 +162,17 @@ JavaScript разработал Брэндон Айх в 1990-х годах, ч�
     </item>
     
     <item>
+      <title>✅ My stepik course</title>
+      <link>https://example.com/post/stepik/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stepik/</guid>
+      <description>&lt;h2 id=&#34;course&#34;&gt;Course&lt;/h2&gt;
+&lt;p&gt;You completed an introductory operating systems course focused on Linux, covering terminal navigation, file management, and permissions (chmod/chown). The course included writing Bash scripts for automation, using conditionals, loops, and functions to process data and handle errors. You practiced process management with commands like ps, kill, and cron jobs, and monitored system resources via top/htop. For text processing, you used grep, sed, and awk to filter logs, alongside tar/gzip for archiving. Networking modules taught SSH key setup, remote file transfers (scp/rsync), and basic diagnostics (ping/netstat). A dedicated section on gnuplot covered data visualization—plotting CSV files, customizing graphs, and creating animations.&lt;/p&gt;
+&lt;p&gt;The most challenging topics were regular expressions in sed/awk and optimizing Bash scripts. Overall, you finished 36+ tasks with an ~85% average score. Your GitHub repository contains all scripts, but needs better organization—you plan to group them into folders (/bash, /gnuplot) and add detailed READMEs. Next steps include exploring Linux system programming (Python/C APIs), containerization (Docker/Kubernetes), and setting up CI/CD for automated testing. The course solidified your Linux fundamentals, and you’ll continue updating the repo with new automation examples and study notes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>✅ My third week</title>
       <link>https://example.com/post/third-week/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>

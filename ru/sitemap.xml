@@ -114,6 +114,20 @@
                 href="https://example.com/ru/project/os/"
                 />
   </url><url>
+    <loc>https://example.com/ru/tags/bash/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/tags/bash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/tags/bash/"
+                />
+  </url><url>
     <loc>https://example.com/ru/post/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -140,6 +154,20 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://example.com/ru/project/pandas/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/project/stepik/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/project/stepik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/project/stepik/"
                 />
   </url><url>
     <loc>https://example.com/ru/tags/github/</loc>
@@ -238,6 +266,20 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://example.com/ru/project/"
+                />
+  </url><url>
+    <loc>https://example.com/ru/tags/stepik/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/tags/stepik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/tags/stepik/"
                 />
   </url><url>
     <loc>https://example.com/ru/tags/</loc>

@@ -20,5 +20,13 @@
       <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Blog</title>
+      <link>https://example.com/ru/project/stepik/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/stepik/</guid>
+      <description>&lt;p&gt;My ended stepik course&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
