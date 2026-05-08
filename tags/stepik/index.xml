@@ -5,12 +5,20 @@
     <link>https://example.com/tags/stepik/</link>
       <atom:link href="https://example.com/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
     <description>Stepik</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Stepik</title>
       <link>https://example.com/tags/stepik/</link>
     </image>
+    
+    <item>
+      <title>Cybersecurity Basics</title>
+      <link>https://example.com/project/cybersecurity/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cybersecurity/</guid>
+      <description>&lt;p&gt;Basics of Cybersecurity course by Immanuel Kant Baltic Federal University on Stepik&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Blog</title>

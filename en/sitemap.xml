@@ -30,6 +30,70 @@
                 href="https://example.com/event/"
                 />
   </url><url>
+    <loc>https://example.com/tags/bfu/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/cybersecurity/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/cybersecurity/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/project/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/project/cybersecurity/"
+                />
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/project/"
+                />
+  </url><url>
+    <loc>https://example.com/tags/stepik/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/tags/stepik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/tags/stepik/"
+                />
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/tags/"
+                />
+  </url><url>
     <loc>https://example.com/post/fedora/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -252,48 +316,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://example.com/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://example.com/project/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/project/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/stepik/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/tags/stepik/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tags/stepik/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tags/"
                 />
   </url><url>
     <loc>https://example.com/tags/wowchemy/</loc>
